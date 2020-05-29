@@ -1,8 +1,8 @@
-import org.junit.Test;
 import java.util.Map;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
 import org.hamcrest.collection.IsMapContaining;
+import org.junit.jupiter.api.Test;
 
 
 public class XMLParserTest {
