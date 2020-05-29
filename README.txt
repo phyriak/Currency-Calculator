@@ -12,5 +12,3 @@
  To start the program you need to Run Calculator main method and put your input to the method.
 
  Github: https://github.com/phyriak/Currency-Calculator.git
-
- C:\Java\currency_calculator\src\main\resources\rate.xml
